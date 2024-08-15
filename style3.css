@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+    background-color:#372117;
+}
+
+
+.fundoverde {
+    width: 100%;
+    height: 30px;
+    background-color: #798957;
+    display: flex;
+    font-size: 20px;
+}
+
+
+.fundoverde svg {
+    width: 10px;
+}
+
+
+.fundoverde div {
+    margin-left: 20px;
+}
+
+#divhouse {
+    margin-left: 100vh;
+}
+
+
+#input1 {
+    background-color: #798957;
+    border-color: black;
+}
+
+::placeholder {
+    color: black;
+}
+#fundinhoverde{height: 300px;
+background-color: #798957;
+width: 100%;
+padding-top: 150px;}
+h2{font-size: 70px;
+text-align: center;
+margin: 0;
+
+}
+.chocinsanos{color: #865D4E;
+font-size: 40px;
+text-align: center;
+margin-top: 20px;}
+.opcoes{color: #865D4E;
+font-size: 18px;
+text-align: center;
+margin-top: 20px;}
+#display{display:flex;
+justify-content: space-around;
+background-color: #372117;
+
+}
+
+
+
+.cards{
+    height: 400px;
+    background-color: #865D4E;
+    border-radius: 38px;
+}
+h1{margin-left: 120px;
+font-size: 20px;}
+button{border-color:#AC8172;
+background-color: #865D4E;
+margin-left: 120px;
+margin-top: 80px;}
+.pureza{text-align: center;
+color: #AC8172;
+margin-top: 40px;
+font-size: 20px;
+}
+.button2{margin-left: 47%;
+background-color: #372117;
+color: #AC8172;
+height: 40px;
+width: 120px;}

@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+background-image: url("pablo-merchan-montes-SCbq6uKCyMY-unsplash.jpg") ;
+background-repeat: no-repeat;
+background-size: 100%;
+
+}
+
+
+.fundoverde {
+    width: 100%;
+    height: 30px;
+    background-color: #798957;
+    display: flex;
+    font-size: 20px;
+}
+
+
+.fundoverde svg {
+    width: 10px;
+}
+
+
+.fundoverde div {
+    margin-left: 20px;
+}
+
+#divhouse {
+    margin-left: 100vh;
+}
+
+
+#input1 {
+    background-color: #798957;
+    border-color: black;
+}
+
+::placeholder {
+    color: black;
+}
+#fundomarrom{ height: 300px;
+width: 100%;
+background-color: #372117;
+margin-top: 35%;
+}
+h1{color: #AC8172;
+text-align: center;}
+#butao1{margin-left: 46%;
+background-color: #372117;
+border-color: #AC8172;
+height: 40px;
+color: #AC8172;}
+.nossahistoria{color: #AC8172;
+margin-top: 300px;
+margin-left: 400px;
+font-size: 90px;}
